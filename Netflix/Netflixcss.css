@@ -1,0 +1,393 @@
+body{
+    background-color: black;
+}
+#netflixlogo{
+    position: relative;
+    padding-top: 0px;
+    height: 120px;
+    width: 200px;
+    margin-left: 42px;
+    align-items: flex-start;
+}
+
+.fondo1{
+    opacity: 0.5;
+}
+
+#español{
+    margin-top: 35px;
+    margin-left: 84%;
+}
+#maintext{
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    text-align: center;
+    color: white;
+    font-size: 4rem;
+    max-width: 640px;
+    font-weight: bold;
+    margin-left: 34%;
+    margin-top: 13%;
+}
+#secondtext{
+    text-align: center;
+    color: white;
+    font-size: 1.65rem;
+    margin-left: 36%;
+    margin-top: 26%;
+   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#thirdtext{
+    text-align: center;
+    color: white;
+    font-size: 1.2rem;
+    margin-left: 31%;
+    margin-top: 29%;
+   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#email{
+    padding: 20px;
+    margin-left: 33%;
+    margin-top: 31%;
+}
+#empezar{
+    text-align: center;
+    color: white;
+    font-size: 1.65rem;
+    background-color: #e50914;
+    padding: 13px;
+    margin-left: 58%;
+    margin-top: 31%;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#div1{
+    position: absolute;
+    padding: 10px 5%;
+    color: white;
+    margin-left: 5%;
+}
+#div1h1{
+    font-size: 3.2rem;
+    color: white;
+    margin-top: 15%;
+    margin-left: 25%;
+    font-weight: bold;
+    
+}
+#div1h2{
+    position: absolute;
+    max-width: 540px;
+    font-size: 1.625rem;
+    font-weight: 400;
+    margin-left: 24%;
+    margin-top: 35%;
+}
+#div1video{
+    width: 360px;
+    margin-left: 100%;
+    position: absolute;
+    margin-top: 15%;
+    margin-left: 144%;
+}
+#div1img{
+    width: 500px;
+    margin-left: 134%;
+    position: absolute;
+    margin-top: 4%;
+}
+#divimagenes{
+    position: relative;
+    margin-top: 0%;
+  
+}
+#barra{
+   
+    background-color: #222;
+    border-bottom: 8px solid #222;
+    margin-right: 100%;
+
+}
+#div2{
+
+    position: absolute;
+    padding: 10px 5%;
+    color: white;
+    margin-left: 5%;
+
+}
+#div2h1{
+   
+    font-size: 3.2rem;
+    color: white;
+    margin-top: 40%;
+    margin-left: 54%;
+    font-weight: bold;
+    
+}
+#div2h2{
+    position: absolute;
+    color: white;
+    max-width: 500px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-left: 48%;
+  
+    margin-top: 48%;
+}
+#div2img1{
+    width: 500px;
+    margin-left: 8%;
+    position: absolute;
+    margin-top: 30%;
+}
+#div2img2{
+    width: 60px;
+    margin-left: 14%;
+    position: absolute;
+    margin-top: 42%;
+}
+#barra2{
+    margin-top: 24%;
+    background-color: #222;
+    border-bottom: 8px solid #222;
+    margin-right: 100%;
+}
+#barra3{
+    margin-top: 49%;
+    background-color: #222;
+    border-bottom: 8px solid #222;
+    margin-right: 100%;
+}
+#div3img1{
+    margin-top: 80%;
+}
+#div3h1{
+    position: absolute;
+    max-width: 500px;
+    margin-top: 57%;
+    margin-left: 23%;
+    font-size: 3.2rem;
+    color: white;
+    font-weight: bold;
+    
+}
+#div3h2{
+    color: white;
+    position: absolute;
+    max-width: 500px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-left: 23%;
+    margin-top: 65%;
+}
+#div3img1{
+    position: absolute;
+    width: 500px;
+    margin-left: 52%;
+    margin-top: 53%;
+}
+#div3video1{
+  
+    width: 300px;
+    margin-left: 57%;
+    margin-top: 56%;
+}
+#div4img1{
+    width: 500px;
+    margin-top: 16%;
+    margin-left: 22%;
+}
+#div4h1{
+    position: absolute;
+    max-width: 500px;
+    margin-top: 19%;
+    margin-left: 53%;
+    font-size: 3.2rem;
+    color: white;
+    font-weight: bold;
+}
+#div4h2{
+    color: white;
+    position: absolute;
+    max-width: 500px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    margin-left: 53%;
+    margin-top: 26%;
+}
+#barra4{
+    margin-top: 2%;
+    background-color: #222;
+    border-bottom: 8px solid #222;
+    margin-right: 100%;
+}
+#barra5{
+    margin-top: 11%;
+    background-color: #222;
+    border-bottom: 8px solid #222;
+    margin-right: 100%;
+}
+#div5h1{
+    position: absolute;
+
+    margin-top: 7%;
+    margin-left: 71%;
+    font-size: 3.2rem;
+    color: white;
+    font-weight: bold;
+}
+#boton1{
+    text-align: left;
+    padding: 20px;
+    width: 800px;
+    margin-left: 1%;
+    margin-top: 14%;
+    background: #303030;
+}
+#boton2{
+    text-align: left;
+    padding: 20px;
+    width: 800px;
+    margin-left: 561px;
+    margin-top: 12px;
+    background: #303030;
+}
+#boton3{
+    width: 10px;
+    position: relative;
+    text-align: left;
+    padding: 20px;
+    width: 800px;
+    margin-left: 561px;
+    margin-top: 12px;
+    background: #303030;
+}
+#boton4{
+    width: 10px;
+    position: relative;
+    text-align: left;
+    padding: 20px;
+    width: 800px;
+    margin-left: 561px;
+    margin-top: 14px;
+    background: #303030;
+}
+#boton5{
+    width: 10px;
+    position: relative;
+    text-align: left;
+    padding: 20px;
+    width: 800px;
+    margin-left: 561px;
+    margin-top: 18px;
+    background: #303030;
+}
+#boton6{
+    width: 10px;
+    position: relative;
+    text-align: left;
+    padding: 20px;
+    width: 800px;
+    margin-left: 561px;
+    margin-top: 20px;
+    background: #303030;
+
+}
+
+#iconx1{
+    transform: rotate(-45deg);
+    margin-left: 405px;
+
+    width: 30px;
+}
+#iconx2{
+    transform: rotate(-45deg);
+    margin-left: 45%;
+
+    width: 30px;
+}
+#iconx3{
+    transform: rotate(-45deg);
+    margin-left: 313px;
+
+    width: 30px;
+}
+#iconx4{
+    transform: rotate(-45deg);
+    margin-left: 404px;
+
+    width: 30px;
+}
+#iconx5{
+    transform: rotate(-45deg);
+    margin-left: 308px;
+
+    width: 30px;
+}
+#iconx6{
+    transform: rotate(-45deg);
+    margin-left: 258px;
+
+    width: 30px;
+}
+#thirdtext2{
+    text-align: center;
+    color: white;
+    font-size: 1.2rem;
+    margin-left: 31%;
+    margin-top: 3%;
+   font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+#email2{
+    padding: 20px;
+    margin-left: 33%;
+    margin-top: 5%;
+}
+#empezar2{
+    text-align: center;
+    color: white;
+    font-size: 1.65rem;
+    background-color: #e50914;
+    padding: 13px;
+    margin-left: 58%;
+    margin-top: 5%;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+  
+}
+#barra5{
+    margin-top: 13%;
+}
+#sticon{
+    width: 500px;
+}
+#sttexto1{
+    color: white;
+    margin-left: 30%;
+
+}
+#sttexto2{
+    color: #0071eb;
+    font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    margin-left: 30%;
+
+}
+#stdiv{
+    position: absolute;
+    padding: 25px;
+    background-color: black;
+    width: 300px;
+    border: 2px solid #303030;
+    border-radius: 10px;
+    margin-top: 46%;
+    margin-right: 40%;
+}
+#sticon{
+    position: absolute;
+    width: 50px;
+    margin-left: 70%;
+
+}
+#stimg1{
+    position: absolute;
+    width: 50px;
+  
+}
